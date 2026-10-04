@@ -1,6 +1,6 @@
 # Jeongyong Yang
 
-Ph.D. student in Aeronautics & Astronautics at the University of Washington.
+🎓 Ph.D. student in Aeronautics & Astronautics at the University of Washington.
 
-- **Research:** Safety-critical control and planning under uncertainty, learning-based methods with formal safety guarantees.
-- **Website:** [jeongyong-seiryu.com](https://jeongyong-seiryu.com/)
+- 🔬 **Research:** Safety and reliability of learning-enabled autonomous systems, with a focus on safety evaluation, learned representations, and formal guarantees.
+- 🌐 **[Web](https://jeongyong-seiryu.com/)**
